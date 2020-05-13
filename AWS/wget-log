@@ -1,0 +1,96 @@
+
+--2020-05-04 18:13:02--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 2) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:15:15--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 3) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:17:29--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 4) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:19:43--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 5) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:21:59--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 6) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:24:15--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 7) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:26:31--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 8) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:28:50--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try: 9) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:31:08--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:10) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:33:28--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:11) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:35:47--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:12) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:38:07--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:13) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:40:26--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:14) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:42:45--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:15) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:45:04--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:16) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:47:24--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:17) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:49:43--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:18) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:52:02--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:19) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Retrying.
+
+--2020-05-04 18:54:21--  ftp://git@github.com/kenvpt/terraform-iaac-ken.git
+  (try:20) => ‘terraform-iaac-ken.git’
+Connecting to github.com (github.com)|140.82.118.3|:21... failed: Connection timed out.
+Giving up.
+
